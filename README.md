@@ -1,7 +1,7 @@
 # data-analytics-portfolio
 # 📊 Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! Here, I showcase hands-on projects built using real-world datasets and tools like **Excel**, **Power BI**, **SQL**, and **Python**. These projects help me explore data patterns, gain business insights, and practice industry-level analytics techniques.
+Welcome to my data analytics portfolio of Excel Project! Here, I showcase hands-on projects built using real-world datasets using **Excel**
 
 ---
 
@@ -24,9 +24,6 @@ Analyzed supermarket transaction data to visualize sales trends, product perform
 ## 👨‍💻 About Me
 
 I'm **Sharma**, an aspiring data analyst passionate about transforming raw data into meaningful insights and building real World projects.
-
-🔧 Tools I use:  
-`Excel` · `Power BI` · `SQL` · `Python` · `Data Cleaning` · `Visualization`
 
 ---
 
