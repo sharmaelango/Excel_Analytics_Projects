@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# data-analytics-portfolio-using-excle
 # 📊 Data Analytics Portfolio
 
 Welcome to my data analytics portfolio of Excel Project! Here, I showcase hands-on projects built using real-world datasets using **Excel**
