@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-# 📊 Data Analytics Portfolio – Sharma
+# 📊 Data Analytics Portfolio
 
 Welcome to my data analytics portfolio! Here, I showcase hands-on projects built using real-world datasets and tools like **Excel**, **Power BI**, **SQL**, and **Python**. These projects help me explore data patterns, gain business insights, and practice industry-level analytics techniques.
 
@@ -10,7 +10,7 @@ Welcome to my data analytics portfolio! Here, I showcase hands-on projects built
 ### 🚴 Bike Sales Analysis
 Explored customer demographics to understand patterns in bike purchases. Built an Excel dashboard using pivot tables, slicers, and visual charts.
 
-📂 Folder: `Bike Sales Analysis`  
+📂 Folder: `Bike Sales Analysis`
 
 ---
 
@@ -23,7 +23,7 @@ Analyzed supermarket transaction data to visualize sales trends, product perform
 
 ## 👨‍💻 About Me
 
-I'm **Sharma**, an aspiring data analyst passionate about transforming raw data into meaningful insights. I'm following resources like **Alex The Analyst**’s YouTube tutorials to guide my learning path and build real projects.
+I'm **Sharma**, an aspiring data analyst passionate about transforming raw data into meaningful insights and building real World projects.
 
 🔧 Tools I use:  
 `Excel` · `Power BI` · `SQL` · `Python` · `Data Cleaning` · `Visualization`
